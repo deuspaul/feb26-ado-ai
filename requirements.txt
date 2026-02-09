@@ -1,0 +1,9 @@
+# To-Do List CLI Application
+# 
+# Core dependencies:
+# - Python 3.7+ (built-in modules: argparse, json, datetime, pathlib)
+#
+# No external dependencies required for basic functionality.
+# Optional: Add these for enhanced features
+# - click>=8.0.0  # Alternative to argparse for CLI
+# - colorama>=0.4.4  # For colored terminal output
